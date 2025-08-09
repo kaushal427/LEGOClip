@@ -1,0 +1,14 @@
+__pycache__/
+.DS_Store
+.env
+.venv/
+venv/
+*.mp4
+*.webm
+*.gif
+_tmp_*.mp4
+_gen_text.mp4
+_stylized.mp4
+
+.env
+.streamlit/secrets.toml
